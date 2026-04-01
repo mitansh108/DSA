@@ -1,3 +1,4 @@
+# Merge Sort: divide and conquer, O(n log n) time
 class Solution:
     def mergeSort(self, nums):
         n = len(nums)
