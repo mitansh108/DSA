@@ -1,3 +1,4 @@
+# Bubble Sort: repeatedly swap adjacent elements, O(n^2)
 class Solution:
     def bubbleSort(self, nums):
         n = len(nums)
