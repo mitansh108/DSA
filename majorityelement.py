@@ -1,3 +1,4 @@
+# Majority Element: Boyer-Moore Voting Algorithm
 class Solution:
     def majorityElement(self, nums):
         
