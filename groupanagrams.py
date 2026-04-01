@@ -1,3 +1,4 @@
+# Group Anagrams: sort each word as key, group by key
 class Solution(object):
     def groupAnagrams(self, strs):
         """
