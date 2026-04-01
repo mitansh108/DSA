@@ -1,3 +1,4 @@
+# Two Sum: use a hash map for O(n) time complexity
 class Solution(object):
     def twoSum(self, nums, target):
         """
