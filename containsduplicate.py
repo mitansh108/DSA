@@ -1,3 +1,4 @@
+# Contains Duplicate: hash set lookup in O(1)
 class Solution(object):
     def containsDuplicate(self, nums):
         """
