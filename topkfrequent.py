@@ -1,3 +1,4 @@
+# Top K Frequent: use a heap for O(n log k)
 import heapq
 from collections import Counter
 class Solution(object):
