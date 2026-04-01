@@ -1,3 +1,4 @@
+# Valid Anagram: compare character frequencies
 class Solution(object):
     def isAnagram(self, s, t):
         """
@@ -20,4 +21,3 @@ class Solution(object):
             if countS[x] != countT.get(x,0):
                 return False
         return True
-
