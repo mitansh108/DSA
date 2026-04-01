@@ -1,3 +1,4 @@
+# Single Number: XOR of all elements cancels duplicates
 class Solution(object):
     def singleNumber(self, nums):
         ans = {}
@@ -15,4 +16,3 @@ class Solution(object):
             if value ==1:
                 return key
     
-
